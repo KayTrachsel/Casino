@@ -1,0 +1,91 @@
+﻿<Window x:Class="Casino.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Casino"
+        mc:Ignorable="d"
+        Title="Roulette" Height="450" Width="800">
+  <Window.Background>
+        <ImageBrush ImageSource="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Background.png"  Stretch="Fill"/>
+  </Window.Background>
+  <Grid x:Name="GridRoulette">
+    <Button x:Name="btnRoulette" Background="Transparent" BorderThickness="0" Margin="0,81,174,0" Click="Button_Click" Height="38" VerticalAlignment="Top" HorizontalAlignment="Right" Width="82" >
+            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Roulette\Roulette_Spin.png"/>
+    </Button>
+        <Image x:Name="pngRouletteWheel" Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Roulette\Roulette_Rad.png" Margin="307,6,302,0" Height="179" VerticalAlignment="Top"/>
+    <TextBox x:Name="txtRoulette" TextWrapping="Wrap" Text="0" FontSize="35" TextAlignment="Center" Background="Transparent" BorderThickness="0" Margin="370,72,370,0" Height="47" VerticalAlignment="Top"/>
+
+    <Grid Margin="150,0,144,16" Height="228" VerticalAlignment="Bottom">
+            <Image x:Name="pngRouletteRaster" Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Roulette\Roulette_Raster.png" Margin="0,0,-4,-4" />
+
+      <!-- Numbers -->
+      <Button x:Name="btnBet0" Content="0" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="10,10,454,74"  Click="Place_Bet"/>
+      <Button x:Name="btnBet1" Content="1" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="56,107,419,77"  Click="Place_Bet"/>
+      <Button x:Name="btnBet2" Content="2" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="56,58,419,126" Click="Place_Bet"/>
+      <Button x:Name="btnBet3" Content="3" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="56,10,419,175" Click="Place_Bet"/>
+      <Button x:Name="btnBet4" Content="4" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="92,107,384,77" Click="Place_Bet"/>
+      <Button x:Name="btnBet5" Content="5" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="92,61,386,126" Click="Place_Bet"/>
+      <Button x:Name="btnBet6" Content="6" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="92,10,384,175" Click="Place_Bet"/>
+      <Button x:Name="btnBet7" Content="7" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="126,107,349,77" Click="Place_Bet"/>
+      <Button x:Name="btnBet8" Content="8" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="126,61,349,126" Click="Place_Bet"/>
+      <Button x:Name="btnBet9" Content="9" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="126,10,349,175" Click="Place_Bet"/>
+      <Button x:Name="btnBet10" Content="10" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="161,107,315,77" Click="Place_Bet"/>
+      <Button x:Name="btnBet11" Content="11" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="161,58,315,126" Click="Place_Bet"/>
+      <Button x:Name="btnBet12" Content="12" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="161,10,315,175" Click="Place_Bet"/>
+      <Button x:Name="btnBet13" Content="13" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="196,107,281,77" Click="Place_Bet"/>
+      <Button x:Name="btnBet14" Content="14" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="196,58,281,126" Click="Place_Bet"/>
+      <Button x:Name="btnBet15" Content="15" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="196,10,281,175" Click="Place_Bet"/>
+      <Button x:Name="btnBet16" Content="16" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="230,107,245,77" Click="Place_Bet"/>
+      <Button x:Name="btnBet17" Content="17" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="230,58,245,126" Click="Place_Bet"/>
+      <Button x:Name="btnBet18" Content="18" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="230,10,245,175" Click="Place_Bet"/>
+      <Button x:Name="btnBet19" Content="19" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="266,107,210,77" Click="Place_Bet"/>
+      <Button x:Name="btnBet20" Content="20" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="266,58,210,126" Click="Place_Bet"/>
+      <Button x:Name="btnBet21" Content="21" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="266,10,210,175" Click="Place_Bet"/>
+      <Button x:Name="btnBet22" Content="22" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="300,107,176,77" Click="Place_Bet"/>
+      <Button x:Name="btnBet23" Content="23" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="300,58,176,126" Click="Place_Bet"/>
+      <Button x:Name="btnBet24" Content="24" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="300,10,176,175" Click="Place_Bet"/>
+      <Button x:Name="btnBet25" Content="25" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="335,107,141,77" Click="Place_Bet"/>
+      <Button x:Name="btnBet26" Content="26" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="335,58,141,126" Click="Place_Bet"/>
+      <Button x:Name="btnBet27" Content="27" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="335,10,141,175" Click="Place_Bet"/>
+      <Button x:Name="btnBet28" Content="28" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="370,107,106,77" Click="Place_Bet"/>
+      <Button x:Name="btnBet29" Content="29" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="370,58,106,126" Click="Place_Bet"/>
+      <Button x:Name="btnBet30" Content="30" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="370,10,106,175" Click="Place_Bet"/>
+      <Button x:Name="btnBet31" Content="31" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="405,107,71,77" Click="Place_Bet"/>
+      <Button x:Name="btnBet32" Content="32" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="405,58,71,126" Click="Place_Bet"/>
+      <Button x:Name="btnBet33" Content="33" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="405,10,71,175" Click="Place_Bet"/>
+      <Button x:Name="btnBet34" Content="34" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="440,107,37,77" Click="Place_Bet"/>
+      <Button x:Name="btnBet35" Content="35" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="440,58,37,126" Click="Place_Bet" />
+      <Button x:Name="btnBet36" Content="36" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="440,10,37,175" Click="Place_Bet" />
+
+      <!-- Odd & Even -->
+      <Button x:Name="btnBetOdd" Content="Odd" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="335,192,106,2" Click="Place_Bet"/>
+      <Button x:Name="btnBetEven" Content="Even" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="126,192,315,2" Click="Place_Bet"/>
+
+      <!-- Specials -->
+      <Button x:Name="btnBetRed" Content="Red" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="196,192,245,2" Click="Place_Bet"/>
+      <Button x:Name="btnBetBlack" Content="Black" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="266,192,176,2" Click="Place_Bet"/>
+      <Button x:Name="btnBetFirst2to1" Content="1st2to1" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="474,10,0,175" Click="Place_Bet"/>
+      <Button x:Name="btnBetSecond2to1" Content="2nd2to1" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="474,58,0,126" Click="Place_Bet"/>
+      <Button x:Name="btnBetThird2to1" Content="3rd2to1" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="474,107,0,77" Click="Place_Bet"/>
+      <Button x:Name="btnBetSecond12" Content="2nd12" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="196,156,176,41" Click="Place_Bet"/>
+      <Button x:Name="btnBetThird12" Content="3rd12" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="335,156,37,41" Click="Place_Bet" />
+      <Button x:Name="btnBetOneto18" Content="1-18" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="56,192,384,5" Click="Place_Bet"/>
+      <Button x:Name="btnBetNineteento36" Content="19-32" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="405,192,37,5" Click="Place_Bet" />
+      <Button x:Name="btnBetFirst12" Content="1st12" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="56,156,315,41" Click="Place_Bet"/>
+    </Grid>
+    <!-- Russian Version -->
+    <Button x:Name="btnRussian" Content="Russian version" Foreground="Green" Background="Transparent" BorderThickness="0" Margin="0,0,10,10" Click="btnRussian_Click" HorizontalAlignment="Right" Width="120" Height="29" VerticalAlignment="Bottom"/>
+
+    <!-- Home -->
+    <Button x:Name="btnHome" Background="Transparent" BorderThickness="0" HorizontalAlignment="Left" Margin="20,20,0,0" VerticalAlignment="Top" Click="btnHome_Click">
+            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\tohome.png" Height="48" Width="44"/>
+    </Button>
+
+    <!-- Chips -->
+    <Grid Margin="175,81,0,0" HorizontalAlignment="Left" Width="82" Height="38" VerticalAlignment="Top">
+            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Chips.png" Margin="0,0,-3,0"/>
+      <TextBox x:Name="txtChips" Background="Transparent" BorderThickness="0" TextWrapping="Wrap" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  Text="0" Foreground="White" FontSize="12" Margin="36,13,-2,-1" RenderTransformOrigin="0.5,0.5"/>
+    </Grid>
+  </Grid>
+</Window>
