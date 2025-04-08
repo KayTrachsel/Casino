@@ -1,6 +1,6 @@
 # Casino Game
 
-This project is a simple casino-style game.
+This project is a simple casino-style game. This is our first project.
 
 > ⚠️ **Important:** The game must be played in **windowed mode only**. Running the game in fullscreen may cause graphical bugs.
 
