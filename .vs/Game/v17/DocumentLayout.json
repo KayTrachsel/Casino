@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\",
+  "WorkspaceRootPath": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\einkauf\\game\\game\\casino\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\alte_projekte\\casino_ioannis_kay\\casino_ioannis_kay\\casino\\casino\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\einkauf\\game\\game\\casino\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\einkauf\\game\\game\\casino\\craps.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\craps.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\einkauf\\game\\game\\casino\\casgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\casgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\einkauf\\game\\game\\casino\\slots.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\slots.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\einkauf\\game\\game\\casino\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\einkauf\\game\\game\\casino\\craps.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\craps.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\einkauf\\game\\game\\casino\\russia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\alte_projekte\\casino_ioannis_kay\\casino_ioannis_kay\\casino\\casino\\russia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\russia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\einkauf\\game\\game\\casino\\russia.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\alte_projekte\\casino_ioannis_kay\\casino_ioannis_kay\\casino\\casino\\blackjack.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\blackjack.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\alte_projekte\\casino_ioannis_kay\\casino_ioannis_kay\\casino\\casino\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\alte_projekte\\casino_ioannis_kay\\casino_ioannis_kay\\casino\\casino\\craps.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\craps.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\alte_projekte\\casino_ioannis_kay\\casino_ioannis_kay\\casino\\casino\\slots.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\slots.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\alte_projekte\\casino_ioannis_kay\\casino_ioannis_kay\\casino\\casino\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\alte_projekte\\casino_ioannis_kay\\casino_ioannis_kay\\casino\\casino\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\alte_projekte\\casino_ioannis_kay\\casino_ioannis_kay\\casino\\casino\\russia.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\russia.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\einkauf\\game\\game\\casino\\slots.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|c:\\users\\kaytr\\desktop\\alte_projekte\\casino_ioannis_kay\\casino_ioannis_kay\\casino\\casino\\slots.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9F4A129-EB2C-4326-A1DA-CD5825C44E56}|Casino\\Casino.csproj|solutionrelative:casino\\slots.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 397,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,105 +58,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Craps.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Craps.xaml.cs",
-              "RelativeDocumentMoniker": "Casino\\Craps.xaml.cs",
-              "ToolTip": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Craps.xaml.cs",
-              "RelativeToolTip": "Casino\\Craps.xaml.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAwDQAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:01:15.631Z"
+              "DocumentIndex": 1,
+              "Title": "Russia.xaml",
+              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Russia.xaml",
+              "RelativeDocumentMoniker": "Casino\\Russia.xaml",
+              "ToolTip": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Russia.xaml",
+              "RelativeToolTip": "Casino\\Russia.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T19:06:31.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Window1.xaml",
-              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Window1.xaml",
-              "RelativeDocumentMoniker": "Casino\\Window1.xaml",
-              "ToolTip": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Window1.xaml",
-              "RelativeToolTip": "Casino\\Window1.xaml",
+              "Title": "Slots.xaml",
+              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Slots.xaml",
+              "RelativeDocumentMoniker": "Casino\\Slots.xaml",
+              "ToolTip": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Slots.xaml",
+              "RelativeToolTip": "Casino\\Slots.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-04T15:03:00.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Window1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Window1.xaml.cs",
-              "RelativeDocumentMoniker": "Casino\\Window1.xaml.cs",
-              "ToolTip": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Window1.xaml.cs",
-              "RelativeToolTip": "Casino\\Window1.xaml.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwB8AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T08:39:51.378Z",
+              "WhenOpened": "2024-05-22T08:48:01.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Slots.xaml",
-              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Slots.xaml",
-              "RelativeDocumentMoniker": "Casino\\Slots.xaml",
-              "ToolTip": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Slots.xaml",
-              "RelativeToolTip": "Casino\\Slots.xaml",
+              "Title": "Craps.xaml",
+              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Craps.xaml",
+              "RelativeDocumentMoniker": "Casino\\Craps.xaml",
+              "ToolTip": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Craps.xaml",
+              "RelativeToolTip": "Casino\\Craps.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T08:48:01.808Z"
+              "WhenOpened": "2024-06-06T15:50:23.472Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CasGames.cs",
-              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\CasGames.cs",
-              "RelativeDocumentMoniker": "Casino\\CasGames.cs",
-              "ToolTip": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\CasGames.cs",
-              "RelativeToolTip": "Casino\\CasGames.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T07:28:19.82Z"
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\App.xaml",
+              "RelativeDocumentMoniker": "Casino\\App.xaml",
+              "ToolTip": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\App.xaml",
+              "RelativeToolTip": "Casino\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-13T09:32:56.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Craps.xaml",
-              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Craps.xaml",
-              "RelativeDocumentMoniker": "Casino\\Craps.xaml",
-              "ToolTip": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Craps.xaml",
-              "RelativeToolTip": "Casino\\Craps.xaml",
+              "Title": "Blackjack.xaml",
+              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Blackjack.xaml",
+              "RelativeDocumentMoniker": "Casino\\Blackjack.xaml",
+              "ToolTip": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Blackjack.xaml",
+              "RelativeToolTip": "Casino\\Blackjack.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-06T15:50:23.472Z"
+              "WhenOpened": "2025-04-13T09:33:07.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Casino\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Casino\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAowBYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T06:45:21.023Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Casino\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\MainWindow.xaml",
+              "RelativeToolTip": "Casino\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-13T09:34:36.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Window1.xaml",
+              "RelativeDocumentMoniker": "Casino\\Window1.xaml",
+              "ToolTip": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Window1.xaml",
+              "RelativeToolTip": "Casino\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-04T15:03:00.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Russia.xaml",
-              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Russia.xaml",
-              "RelativeDocumentMoniker": "Casino\\Russia.xaml",
-              "ToolTip": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Russia.xaml",
-              "RelativeToolTip": "Casino\\Russia.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-06T19:06:31.422Z"
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Casino\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Window1.xaml.cs",
+              "RelativeToolTip": "Casino\\Window1.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:39:51.378Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Russia.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Russia.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Russia.xaml.cs",
               "RelativeDocumentMoniker": "Casino\\Russia.xaml.cs",
-              "ToolTip": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Russia.xaml.cs",
+              "ToolTip": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Russia.xaml.cs",
               "RelativeToolTip": "Casino\\Russia.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,9 +168,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Slots.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Slots.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Slots.xaml.cs",
               "RelativeDocumentMoniker": "Casino\\Slots.xaml.cs",
-              "ToolTip": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Slots.xaml.cs",
+              "ToolTip": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Slots.xaml.cs",
               "RelativeToolTip": "Casino\\Slots.xaml.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAgwFUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

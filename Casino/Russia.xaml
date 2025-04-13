@@ -7,22 +7,22 @@
         mc:Ignorable="d"
         Title="Russia" Height="450" Width="800">
   <Window.Background>
-        <ImageBrush ImageSource="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Roulette\Russ\Russ_Background.png"  Stretch="Fill"/>
+        <ImageBrush ImageSource="Pictures/Roulette/Russ/Russ_Background.png"  Stretch="Fill"/>
   </Window.Background>
   <Grid>
-        <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Roulette\Russ\Russ_Gun.png" Margin="322,0,322,0"/>
+        <Image Source="Pictures/Roulette/Russ/Russ_Gun.png" Margin="322,0,322,0"/>
     <Grid HorizontalAlignment="Left" Height="357" VerticalAlignment="Top" Margin="30,25,0,0">
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Roulette\Russ\Russ_Chamber.png" Height="258" VerticalAlignment="Top" HorizontalAlignment="Left" Width="269"/>
+            <Image Source="Pictures/Roulette/Russ/Russ_Chamber.png" Height="258" VerticalAlignment="Top" HorizontalAlignment="Left" Width="269"/>
       <Button Content="1" FontSize="0.1" Background="Transparent" BorderThickness="0" HorizontalAlignment="Left" Margin="105,25,0,283" Click="Place_Bet" Width="42"/>
       <Button Content="2" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="171,66,55,242" Click="Place_Bet"/>
       <Button Content="3" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="172,147,54,161" Click="Place_Bet"/>
       <Button Content="4" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="105,185,121,123" Click="Place_Bet"/>
       <Button Content="5" FontSize="0.1" Background="Transparent" BorderThickness="0" HorizontalAlignment="Left" Margin="33,145,0,163" Click="Place_Bet" Width="43"/>
       <Button Content="6" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="34,66,192,242" Click="Place_Bet"/>
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Roulette\Russ\Russ_Select.png" Margin="55,294,56,0" Height="63" VerticalAlignment="Top"/>
+            <Image Source="Pictures/Roulette/Russ/Russ_Select.png" Margin="55,294,56,0" Height="63" VerticalAlignment="Top"/>
     </Grid>
     <Button x:Name="btnFire" Background="Transparent" BorderThickness="0" Margin="0,25,36,0" Click="btnFire_Click" Height="258" VerticalAlignment="Top" HorizontalAlignment="Right" Width="253">
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Roulette\Russ\Russ_Fire.png"/>
+            <Image Source="Pictures/Roulette/Russ/Russ_Fire.png"/>
     </Button>
 
   </Grid>

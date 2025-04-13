@@ -7,24 +7,24 @@
         mc:Ignorable="d"
         Title="Craps" Height="450" Width="800">
   <Window.Background>
-        <ImageBrush ImageSource="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Background.png"  Stretch="Fill"/>
+        <ImageBrush ImageSource="Pictures/Background.png"  Stretch="Fill"/>
   </Window.Background>
   <Grid>
     <Grid HorizontalAlignment="Center" Margin="0,18,0,0" VerticalAlignment="Top" Width="550">
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Craps\Craps_Dice.png" Margin="0,0,300,8"/>
+            <Image Source="Pictures/Craps/Craps_Dice.png" Margin="0,0,300,8"/>
       <TextBox x:Name ="txtRoll1" FontSize="50" Background="Transparent" BorderThickness="0" TextWrapping="Wrap" Text="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,0,300,0"/>
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Craps\Craps_Dice.png" Margin="300,0,0,0"/>
+            <Image Source="Pictures/Craps/Craps_Dice.png" Margin="300,0,0,0"/>
       <TextBox x:Name ="txtRoll2" FontSize="50"  Background="Transparent" BorderThickness="0" TextWrapping="Wrap" Text="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="txtRoll2_TextChanged" Margin="300,4,0,4"/>
     </Grid>
     <Button x:Name ="btnDiceroll" Background="Transparent" BorderThickness="0"  Margin="0,0,151,38" Click="btnDiceroll_Click" Height="89" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="189">
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Craps\Craps_Spin.png" Height="90" Width="189"/>
+            <Image Source="Pictures/Craps/Craps_Spin.png" Height="90" Width="189"/>
     </Button>
     <!-- Home -->
     <Button x:Name="btnHome" Background="Transparent" BorderThickness="0" Margin="20,20,0,0" Click="btnHome_Click" HorizontalAlignment="Left" Width="51" Height="56" VerticalAlignment="Top">
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\tohome.png" Height="48" Width="44"/>
+            <Image Source="Pictures/tohome.png" Height="48" Width="44"/>
     </Button>
     <!-- Chips -->
-        <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Chips.png" Margin="150,0,0,38" Height="89" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="205"/>
+        <Image Source="Pictures/Chips.png" Margin="150,0,0,38" Height="89" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="205"/>
     <TextBox x:Name="txtChips" Background="Transparent" BorderThickness="0" FontSize="20" Margin="270,0,0,52" Foreground="White" HorizontalAlignment="Left" TextWrapping="Wrap" Text="5000" Height="27" VerticalAlignment="Bottom"/>
   </Grid>
 </Window>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Casino.csproj",
+      "projectUniqueName": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Casino.csproj",
       "projectName": "Casino",
-      "projectPath": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\Casino.csproj",
+      "projectPath": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\Casino.csproj",
       "packagesPath": "C:\\Users\\kaytr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaytr\\Desktop\\einkauf\\Game\\Game\\Casino\\obj\\",
+      "outputPath": "C:\\Users\\kaytr\\Desktop\\Alte_Projekte\\Casino_Ioannis_Kay\\Casino_Ioannis_Kay\\Casino\\Casino\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kaytr\\AppData\\Roaming\\NuGet\\NuGet.Config",

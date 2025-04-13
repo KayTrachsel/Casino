@@ -10,7 +10,12 @@
 
   <ItemGroup>
     <None Remove="Background.png" />
+    <None Remove="Pictures\Background.png" />
     <None Remove="Pictures\Home\Roulette_home.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Pictures\Background.png" />
   </ItemGroup>
 
   <ItemGroup>

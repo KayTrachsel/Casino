@@ -7,17 +7,17 @@
         mc:Ignorable="d"
         Title="Roulette" Height="450" Width="800">
   <Window.Background>
-        <ImageBrush ImageSource="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Background.png"  Stretch="Fill"/>
+        <ImageBrush ImageSource="Pictures/Background.png"  Stretch="Fill"/>
   </Window.Background>
   <Grid x:Name="GridRoulette">
     <Button x:Name="btnRoulette" Background="Transparent" BorderThickness="0" Margin="0,81,174,0" Click="Button_Click" Height="38" VerticalAlignment="Top" HorizontalAlignment="Right" Width="82" >
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Roulette\Roulette_Spin.png"/>
+            <Image Source="Pictures/Roulette/Roulette_Spin.png"/>
     </Button>
-        <Image x:Name="pngRouletteWheel" Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Roulette\Roulette_Rad.png" Margin="307,6,302,0" Height="179" VerticalAlignment="Top"/>
+        <Image x:Name="pngRouletteWheel" Source="Pictures/Roulette/Roulette_Rad.png" Margin="307,6,302,0" Height="179" VerticalAlignment="Top"/>
     <TextBox x:Name="txtRoulette" TextWrapping="Wrap" Text="0" FontSize="35" TextAlignment="Center" Background="Transparent" BorderThickness="0" Margin="370,72,370,0" Height="47" VerticalAlignment="Top"/>
 
     <Grid Margin="150,0,144,16" Height="228" VerticalAlignment="Bottom">
-            <Image x:Name="pngRouletteRaster" Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Roulette\Roulette_Raster.png" Margin="0,0,-4,-4" />
+            <Image x:Name="pngRouletteRaster" Source="Pictures/Roulette/Roulette_Raster.png" Margin="0,0,-4,-4" />
 
       <!-- Numbers -->
       <Button x:Name="btnBet0" Content="0" FontSize="0.1" Background="Transparent" BorderThickness="0" Margin="10,10,454,74"  Click="Place_Bet"/>
@@ -79,12 +79,12 @@
 
     <!-- Home -->
     <Button x:Name="btnHome" Background="Transparent" BorderThickness="0" HorizontalAlignment="Left" Margin="20,20,0,0" VerticalAlignment="Top" Click="btnHome_Click">
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\tohome.png" Height="48" Width="44"/>
+            <Image Source="Pictures/tohome.png" Height="48" Width="44"/>
     </Button>
 
     <!-- Chips -->
     <Grid Margin="175,81,0,0" HorizontalAlignment="Left" Width="82" Height="38" VerticalAlignment="Top">
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Chips.png" Margin="0,0,-3,0"/>
+            <Image Source="Pictures/Chips.png" Margin="0,0,-3,0"/>
       <TextBox x:Name="txtChips" Background="Transparent" BorderThickness="0" TextWrapping="Wrap" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  Text="0" Foreground="White" FontSize="12" Margin="36,13,-2,-1" RenderTransformOrigin="0.5,0.5"/>
     </Grid>
   </Grid>

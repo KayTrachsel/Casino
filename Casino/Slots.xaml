@@ -7,25 +7,25 @@
         mc:Ignorable="d"
         Title="Slots" Height="450" Width="800">
   <Window.Background>
-        <ImageBrush ImageSource="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Background.png"  Stretch="Fill"/>
+        <ImageBrush ImageSource="Pictures/Background.png"  Stretch="Fill"/>
   </Window.Background>
   <Grid>
     <Grid Margin="206,62,206,62">
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Slots\Slot_maschine.png" Margin="-9,-7,2,0"/>
+            <Image Source="Pictures/Slots/Slot_maschine.png" Margin="-9,-7,2,0"/>
       <TextBox x:Name ="txtLeftSlot" BorderThickness="0" TextWrapping="Wrap" Text="0" FontSize="35" TextAlignment="Center" VerticalContentAlignment="Center" Margin="67,90,253,107"/>
       <TextBox x:Name ="txtCenterSlot" BorderThickness="0" TextWrapping="Wrap" Text="0" FontSize="35" TextAlignment="Center" VerticalContentAlignment="Center" TextChanged="txtCenterSlot_TextChanged" Margin="147,90,173,107"/>
       <TextBox x:Name ="txtRightSlot" BorderThickness="0" Margin="228,90,92,107" TextWrapping="Wrap" Text="0" FontSize="35" TextAlignment="Center" VerticalContentAlignment="Center"/>
     </Grid>
     <Button x:Name ="btnSlots" Background="Transparent" BorderThickness="0" HorizontalAlignment="Left" Margin="643,180,0,198" Click="btnSlots_Click" Width="118">
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Slots\Slots_Spin.png" Height="53" Width="117"/>
+            <Image Source="Pictures/Slots/Slots_Spin.png" Height="53" Width="117"/>
     </Button>
     <Button x:Name="btnHome" Background="Transparent" BorderThickness="0" HorizontalAlignment="Left" Margin="20,20,0,0" VerticalAlignment="Top" Click="btnHome_Click">
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\tohome.png" Height="48" Width="44"/>
+            <Image Source="Pictures/tohome.png" Height="48" Width="44"/>
     </Button>
 
     <!-- Chips -->
     <Grid Margin="86,180,0,0" HorizontalAlignment="Left" Width="91" Height="56" VerticalAlignment="Top">
-            <Image Source="C:\Users\johnl\OneDrive - sluz\BBZW 1LJ\IPT2.1\Game\Game\Casino\Pictures\Chips.png" Margin="0,0,-10,-7"/>
+            <Image Source="Pictures/Chips.png" Margin="0,0,-10,-7"/>
       <TextBox x:Name="txtChips" Background="Transparent" BorderThickness="0" TextWrapping="Wrap" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  Text="0" Foreground="White" FontSize="12" Margin="43,18,-9,-6" RenderTransformOrigin="0.5,0.5"/>
     </Grid>
   </Grid>

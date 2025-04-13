@@ -7,14 +7,14 @@
         mc:Ignorable="d"
         Title="Blackjack" Height="450" Width="800">
   <Window.Background>
-    <ImageBrush ImageSource="C:\Users\kaytr\Desktop\Projekt_Game\Game_code\Casino\pictures\Background.png"  Stretch="Fill"/>
+    <ImageBrush ImageSource="Pictures/Background.png"  Stretch="Fill"/>
   </Window.Background>
   <Grid Margin="0,0,0,-6">
-    <Image Source="C:\Users\kaytr\Desktop\Projekt_Game\Game_code\Casino\pictures\blackjack\Blackjack_sign.png" Margin="116,46,116,146"/>
+    <Image Source="Pictures/blackjack/Blackjack_sign.png" Margin="116,46,116,146"/>
 
     <!-- Home -->
     <Button x:Name="btnHome" Background="Transparent" BorderThickness="0" Margin="294,324,294,44" Click="btnHome_Click">
-      <Image Source="C:\Users\kaytr\Desktop\Projekt_Game\Game_code\Casino\pictures\blackjack\Blackjack_back.png" Height="66" Width="202"/>
+      <Image Source="Pictures/blackjack/Blackjack_back.png" Height="66" Width="202"/>
     </Button>
   </Grid>
 </Window>
